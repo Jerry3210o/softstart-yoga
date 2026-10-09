@@ -1,0 +1,14 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#FBF4EF"/>
+  <rect x="0" y="0" width="1200" height="10" fill="#2E6F68"/>
+  <g transform="translate(96,92) scale(1.5)">
+    <circle cx="24" cy="19" r="8.5" fill="#2E6F68"/>
+    <path d="M6.5 21.5A17.5 17.5 0 0 0 41.5 21.5" stroke="#23262A" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <circle cx="39.5" cy="8.5" r="3.5" fill="#C4883F"/>
+  </g>
+  <text x="176" y="140" font-family="Instrument Serif, Georgia, serif" font-size="44" fill="#23262A">Softstart</text>
+  <text x="96" y="310" font-family="Instrument Serif, Georgia, serif" font-size="82" fill="#1F2226">Yoga for the nine months,</text>
+  <text x="96" y="396" font-family="Instrument Serif, Georgia, serif" font-size="82" font-style="italic" fill="#2E6F68">and the ones after.</text>
+  <text x="96" y="474" font-family="Karla, Arial, sans-serif" font-size="27" fill="#6F736F">Built stage by stage. Reviewed by a midwife and a pelvic health physio.</text>
+  <text x="96" y="560" font-family="Karla, Arial, sans-serif" font-size="22" font-weight="700" fill="#23262A" letter-spacing="3">SOFTSTARTYOGA.WORLD</text>
+</svg>
