@@ -16,4 +16,3 @@ e.createElement("form"),b=e.createElement("input");a.method="POST";a.action=t.hr
   </body>
 </html>
 <?php exit;
-}
